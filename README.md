@@ -16,12 +16,12 @@ You can open this exercise and start working on it using Android Studio. The ste
 
 ## Exercises
 
-* [`Exercise 1`](src/ch/epfl/sweng/exercises/exercise1)
-* [`Exercise 2`](src/ch/epfl/sweng/exercises/exercise2)
-* [`Exercise 3`](src/ch/epfl/sweng/exercises/exercise3)
-* [`Exercise 4`](src/ch/epfl/sweng/exercises/exercise4)
-* [`Exercise 5`](src/ch/epfl/sweng/exercises/exercise5)
-* [`Exercise 6`](src/ch/epfl/sweng/exercises/exercise6)
-* [`Exercise 7`](src/ch/epfl/sweng/exercises/exercise7)
-* [`Exercise 8`](src/ch/epfl/sweng/exercises/exercise8)
-* [`Exercise 9`](src/ch/epfl/sweng/exercises/exercise9)
+* [`Exercise 1`](src/ch/epfl/sweng/dp2/ex1)
+* [`Exercise 2`](src/ch/epfl/sweng/dp2/ex2)
+* [`Exercise 3`](src/ch/epfl/sweng/dp2/ex3)
+* [`Exercise 4`](src/ch/epfl/sweng/dp2/ex4)
+* [`Exercise 5`](src/ch/epfl/sweng/dp2/ex5)
+* [`Exercise 6`](src/ch/epfl/sweng/dp2/ex6)
+* [`Exercise 7`](src/ch/epfl/sweng/dp2/ex7)
+* [`Exercise 8`](src/ch/epfl/sweng/dp2/ex8)
+* [`Exercise 9`](src/ch/epfl/sweng/dp2/ex9)
